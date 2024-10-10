@@ -29,7 +29,7 @@ This is a real-time drawing and guessing game built using Node.js and Socket.io.
 1. Clone the repository:
    ```bash
    git clone https://github.com/gourav4222f/Pictionary-game.git
-   cd drawing-game
+   cd Pictionary-game
    ```
 
 2. Install the dependencies for both client and server:
