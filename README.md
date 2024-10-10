@@ -58,7 +58,8 @@ This is a real-time drawing and guessing game built using Node.js and Socket.io.
 
 
 Here is a demonstration of the game:
-![Game Demo](client/demo.gif){ width="100%" height="auto" }
+<img src="client/demo.gif" alt="Game Demo" style="width:100vw; height:auto;">
+
 
 
 ## Contributing
